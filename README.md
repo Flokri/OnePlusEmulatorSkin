@@ -2,7 +2,7 @@
 A skin to create a OnePlus 6T emulator. 
 
 <p align="center">
-  <img src="https://github.com/Flokri/OnePlusEmulatorSkin/blob/master/images/nexus6t_emulator.PNG">
+  <img src="https://github.com/Flokri/OnePlusEmulatorSkin/blob/master/images/OnePlus6t_emulator.PNG">
 </p>
 
 # How to use?
