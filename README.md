@@ -15,5 +15,5 @@ To use the correct size and skin set the following properties:
 | ------ | ------ | ------ |
 | `hw.lcd.height` | 2340 | Set the height of the device. |
 | `hw.lcd.width` | 1080 | Set the width of the device. |
-| `skin.name` | nexus6t | The name of the nexus 6T skin. |
+| `skin.name` | OnePlus | The name of the oneplus 6T skin. |
 | `skin.path` | The path of the emulator folder. | The path where you copied the folder to. |
